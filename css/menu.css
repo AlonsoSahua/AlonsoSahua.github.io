@@ -11,8 +11,6 @@
     font-weight: bold;
     font-size: 7em;
 }
-
-
 .menu a {
     font-weight: 100;
 }
@@ -43,4 +41,7 @@
 
 .timeline{
     margin-left: 5em;
+}
+.card mt-2{
+    margin-bottom: 10px;
 }
